@@ -1,0 +1,6 @@
+{
+  "name": "RClone WFX Plugin",
+  "description": "A cross-platform (Windows/Linux) File System Plugin for Total Commander and Double Commander that interfaces with rclone to manage Google Drive and other remotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
